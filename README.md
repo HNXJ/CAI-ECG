@@ -1,4 +1,4 @@
-# CAI-ECG
+# C-ECG
 ECG-Physionet draft
 
 
